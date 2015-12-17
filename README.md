@@ -1,5 +1,6 @@
 # SearchAlgos
 Implements BFS, DFS and UCS search algorithms
+
 Input should be in the following format:
 
 <#cases> total number of test cases in file
@@ -31,3 +32,5 @@ Output will be in the following format:
 
 eg:
 B 4
+
+NOTE: BFS and DFS don't consider lengths and off-times. Length is taken to be 1 by default.
